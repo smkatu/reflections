@@ -1,4 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	ao utilizar git init, é criado uma pasta oculta (.git) onde é armazenado os commits
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	é um espaço temporario e é necessario para emitar commits errados/desnecessarios
 	
