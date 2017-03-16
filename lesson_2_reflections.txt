@@ -7,4 +7,27 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	é um espaço temporario e é necessario para emitar commits errados/desnecessarios
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	usando o git diff (sem declarar os IDs) é possivel ver as alteraçes feitas 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	git branch serve para criar "versoes paralelas" para teste, etc.
+
+How do the diagrams help you visualize the branch structure?
+
+	ajuda a visualizar os commits existentes e as atualizaçoes feitas por outros	
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	unifica-se as alterações feitas/inseridas nos dois braches. É representado indicando que o branch atual tem dois pais
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	o merging automatico facilita muito, sendo que terao ser alterados manualmente apenas as partes conflitantes
+
 	
