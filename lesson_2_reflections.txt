@@ -31,4 +31,5 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 	o merging automatico facilita muito, sendo que terao ser alterados manualmente apenas as partes conflitantes
 
 Testando conexao ssh
+Testando novamente
 
